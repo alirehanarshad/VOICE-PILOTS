@@ -1,0 +1,38 @@
+========================================
+        NEURAL TASK ARCHIVE: task13.txt
+========================================
+Timestamp  : 2026-03-08 21:35:52
+Session    : default
+Status     : LOGGED (Awaiting Connection)
+
+--- USER REQUEST ---
+How do you send that mail to Mr. Rehan?
+
+--- AI INTERPRETATION ---
+Sure! Here’s a quick step‑by‑step guide to email Mr. Rehan:
+
+1. **Open your email client** (Gmail, Outlook, etc.) and click “Compose.”
+2. **In the “To” field**, enter Mr. Rehan’s address (e.g., rehan@example.com). If you don’t have it, look it up in your contacts or request it from him.
+3. **Subject line** – keep it clear and relevant, e.g., “Follow‑up on VoicePilot integration” or “Meeting request.”
+4. **Body** – start with a polite greeting, state the purpose concisely, include any needed details or attachments, and close with a call to action (e.g., “Please let me know a convenient time for a call”).  
+   Example:
+   ```
+   Hi Rehan,
+
+   I hope you’re well. I wanted to discuss the next steps for integrating the autonomous voice agent into our platform. Could we schedule a 30‑minute call next week?
+
+   Thanks,
+   Ali
+   ```
+5. **Attachments** – click the attachment icon and select any files (design docs, prototypes, etc.) you want to share.
+6. **Review** – double‑check names, email address, and content for accuracy.
+7. **Send** – hit the “Send” button.
+
+If you use a web client, the process is the same; just make sure you’re logged into the correct account (e.g., your alitehan@redgmail.com address). Let me know if you need a template or help drafting the exact wording.
+
+--- ACTION METADATA ---
+Type       : send_email
+Description: To send an email to Mr. Rehan, the system would need to access the email client, compose a new message, and address it to Mr. Rehan.
+Approval   : Required
+
+========================================

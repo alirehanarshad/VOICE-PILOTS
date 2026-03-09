@@ -1,0 +1,32 @@
+# Backend server
+fastapi==0.115.8
+uvicorn==0.34.0
+python-multipart==0.0.20
+
+# Data models & settings
+pydantic==2.12.5
+pydantic-settings==2.7.1
+
+# LLM / AI
+openai==1.61.0       # If you plan to use OpenAI API
+groq==1.0.0         # Optional, only if using Groq inference
+langgraph==0.2.74    # Orchestration framework for stateful agents
+
+# Voice / Audio
+edge-tts==6.1.15
+faster-whisper==1.1.0
+torchaudio==2.5.1
+torch==2.5.1
+librosa==0.10.2.post1
+scipy==1.15.1
+noisereduce==3.0.3
+pydub==0.25.1
+numpy==1.26.4
+
+# MCP / Automation
+mcp==1.26.0           # Python MCP server
+playwright==1.50.0   # Browser automation
+websockets==14.2   # For real-time MCP connections
+
+# Environment & Config
+python-dotenv==1.0.1

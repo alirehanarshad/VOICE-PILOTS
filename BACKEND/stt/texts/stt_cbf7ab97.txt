@@ -1,0 +1,1 @@
+I am fine too. Could we build an AI bot that will reply to what I said. We will build it in Python, C, or JavaScript.

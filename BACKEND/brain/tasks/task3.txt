@@ -1,0 +1,31 @@
+========================================
+        NEURAL TASK ARCHIVE: task3.txt
+========================================
+Timestamp  : 2026-03-03 22:05:52
+Session    : default
+Status     : LOGGED (Awaiting Connection)
+
+--- USER REQUEST ---
+I said could you look for any great beach near Islamabad?
+
+--- AI INTERPRETATION ---
+
+
+Understood — you're looking for a great beach near Islamabad. While Islamabad itself is located in a hilly, landlocked area and doesn’t have direct access to the sea, there are a few nearby natural lakes and picnic spots that offer a similar relaxing atmosphere. Here are a few suggestions:
+
+1. **Rawal Lake** – A popular recreational spot near Islamabad, perfect for picnics, boating, and relaxation. It's a great alternative for a day by the water.
+
+2. **Lake View** – Located in Murree, about an hour's drive from Islamabad, Lake View offers a scenic and peaceful environment with beautiful mountain views.
+
+3. **Bhimber Lake** – Slightly farther, in Azad Kashmir, this serene lake surrounded by mountains is ideal for nature lovers looking to escape the city.
+
+4. **Naltar Valley** – While not a beach, Naltar offers stunning alpine lakes and is perfect for hiking and enjoying nature just a few hours from Islamabad.
+
+Would you like me to help plan a day trip to one of these locations or check the best route and travel time?
+
+--- ACTION METADATA ---
+Type       : web_search
+Description: Search for great beaches near Islamabad
+Approval   : Auto
+
+========================================
